@@ -18,4 +18,3 @@ Here are some ideas to get you started:
 - ☁️ GCP
 - 🤮 TS
 - 🤔 Used to be passionate in nerd stuff like k8s, istio, gRPC, microservices, cloud native and all the never ending "cool kid" stuff. Now I only code as my side hustle and dont need those fancy shit (99.9% of shit that uses k8s probably dont need it tbh XD, we used to be the same, now i am cool with a linode server) and just want my bill to be cost effective as inspired by 🐦 @levelio
-- 😎 I own one of the coolest tech twitter @ too. 
